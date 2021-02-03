@@ -13,6 +13,6 @@ Machine Learning Resources
 
 [ITILA](http://www.inference.org.uk/itila/book.html)
 
-[MLAPP](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/)
+[MLAPP](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 
 [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
