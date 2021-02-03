@@ -9,6 +9,8 @@ Machine Learning Resources
 
 [Hands-on Machine Learning 2nd](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%c3%a9lien-G%c3%a9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%e2%80%99Reilly-Media-2019.pdf)
 
+[Hands-on Machine Learning 2nd CN](https://github.com/apachecn/hands-on-ml-2e-zh)
+
 [ITILA](http://www.inference.org.uk/itila/book.html)
 
 [MLAPP](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/)
